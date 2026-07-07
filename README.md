@@ -41,10 +41,10 @@ To successfully implement this structural assessment, the following sequential d
 ## 4. Deep-Dive Artifact & Repository File Explanations
 This repository hosts specific core forensic artifacts. Below is the full technical breakdown explaining what data layers are contained within each file:
 
-### File 1: network_traffic_capture.pcapng (The Raw Data Stream)
+### File 1: network_traffic_capture.pcap (The Raw Data Stream)
 What it is: This is the exported raw binary packet capture file containing the exact payload strings, source/destination hardware parameters, and microsecond-level chronological timings of the entire active network session.
 
-### File 2: wireshark_capture_dashboard.jpg (The System Verification Interface)
+### File 2: wireshark_capture_dashboard.png (The System Verification Interface)
 This visual workspace trace acts as administrative verification that the task was executed flawlessly. It captures the three primary interface panels of Wireshark detailing specific protocol actions:
 
 #### Panel A: The Filter Expression Log — 
