@@ -1,5 +1,5 @@
 # Network-Traffic-Analysis-Task5
-## Cyber Security Internship - Task 5: Comprehensive Live Network Traffic Ingestion, Protocol Dissection, and Forensics Analysis
+## Elevate Labs Cyber Security Internship - Task 5: Comprehensive Live Network Traffic Ingestion, Protocol Dissection, and Forensics Analysis
 
 ## 🎯 1. Project Overview & Comprehensive Objective
 The primary core objective of this engineering task is to deploy an administrative host-based network packet sniffer configuration to ingest, map, and log live Ethernet/Wireless data streams traversing the local network interface card (NIC). 
